@@ -1,0 +1,14 @@
+# lily (mrrpmeowfurry)
+
+> Personal site of lily - an enby trans puppygirl who likes coding, reverse
+> engineering, and self-hosting.
+
+## Pages
+
+- [Home](https://mrrpmeowfurry.dev/): about lily, projects, and contact links
+
+## Links
+
+- [GitHub](https://github.com/mrrpmeowfurry): code and projects
+- [Pronouns](https://en.pronouns.page/@mrrpmeowfurry): it / its
+- [Sitemap](https://mrrpmeowfurry.dev/sitemap.xml)

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { Fragment, useEffect, useState } from "react";
 import { applyTheme } from "./theme.ts";
 import "./App.css";
 
@@ -111,7 +111,7 @@ function App() {
           <div className="avatar">
             <img
               className="avatar-img"
-              src="https://cdn.mrrpmeowfurry.dev/assets/avatar.png"
+              src="/avatar.webp"
               alt="Lily"
               width="96"
               height="96"
@@ -238,7 +238,7 @@ function App() {
             </p>
             <md-list>
               {links.map((l, i) => (
-                <div key={l.label}>
+                <Fragment key={l.label}>
                   {i > 0 && <md-divider />}
                   <md-list-item type="link" href={l.href} target="_blank">
                     <md-icon slot="start">{l.icon}</md-icon>
@@ -246,7 +246,7 @@ function App() {
                     <span slot="supporting-text">{l.detail}</span>
                     <md-icon slot="end">arrow_outward</md-icon>
                   </md-list-item>
-                </div>
+                </Fragment>
               ))}
             </md-list>
           </div>
