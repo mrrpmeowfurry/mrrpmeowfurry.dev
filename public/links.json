@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "videocam",
+    "label": "YouTube",
+    "detail": "@mrrpmeowfurry",
+    "href": "https://youtube.com/@mrrpmeowfurry"
+  },
+  {
+    "icon": "transgender",
+    "label": "Pronouns",
+    "detail": "pronouns.page/@mrrpmeowfurry",
+    "href": "https://en.pronouns.page/@mrrpmeowfurry"
+  },
+  {
+    "icon": "mail",
+    "label": "Email",
+    "detail": "velocity.toml@proton.me",
+    "href": "mailto:velocity.toml@proton.me"
+  },
+  {
+    "icon": "code",
+    "label": "GitHub",
+    "detail": "@mrrpmeowfurry",
+    "href": "https://github.com/mrrpmeowfurry"
+  },
+  {
+    "icon": "forum",
+    "label": "Discord",
+    "detail": "mrrpmeowfurry",
+    "href": "https://discord.com/users/1351765478690918402"
+  },
+  {
+    "icon": "tag",
+    "label": "Twitter (X)",
+    "detail": "@mrrpmeowfurry",
+    "href": "https://x.com/mrrpmeowfurry"
+  },
+  {
+    "icon": "send",
+    "label": "Telegram",
+    "detail": "@nonbinarynerd",
+    "href": "https://t.me/nonbinarynerd"
+  },
+  {
+    "icon": "map",
+    "label": "OpenStreetMap",
+    "detail": "my edits & notes",
+    "href": "https://www.openstreetmap.org/user/mrrpmeowfurry"
+  }
+]

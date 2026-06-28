@@ -1,0 +1,29 @@
+[
+  {
+    "label": "Languages",
+    "items": [
+      "C",
+      "C++",
+      "C#",
+      "Go",
+      "Python",
+      "Java",
+      "Kotlin",
+      "Bash",
+      "JavaScript",
+      "TypeScript"
+    ]
+  },
+  {
+    "label": "Web",
+    "items": ["React", "Node.js", "Express", "Vite", "FastAPI"]
+  },
+  {
+    "label": "Infra",
+    "items": ["Docker", "Podman", "Nginx", "Caddy", "Kubernetes", "MariaDB"]
+  },
+  {
+    "label": "Other",
+    "items": ["Linux", "Git", "Reverse engineering", "OpenStreetMap", "CTFs"]
+  }
+]

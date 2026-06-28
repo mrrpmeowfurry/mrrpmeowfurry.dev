@@ -1,6 +1,5 @@
 {
   "name": "mrrpmeowfurry.dev",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@material/material-color-utilities": "^0.4.0",
+    "@material/web": "^2.4.1",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },

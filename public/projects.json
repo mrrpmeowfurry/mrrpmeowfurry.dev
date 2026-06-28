@@ -1,0 +1,47 @@
+[
+  {
+    "title": "open-talktalk",
+    "blurb": "talktalk was a minecraft chat app i used as a kid. i pulled the 2016 client apart to see how it talked to its servers, then wrote a new server + a patcher so the old client connects to mine instead.",
+    "tags": ["Python", "Reverse engineering", "Networking"],
+    "link": "https://github.com/mrrpmeowfurry/open-talktalk"
+  },
+  {
+    "title": "Comet Client",
+    "blurb": "a minecraft client that i worked on with my friend ray",
+    "tags": ["Java", "Minecraft"],
+    "link": "https://github.com/CometClient",
+    "isOrg": true
+  },
+  {
+    "title": "MineriftMC",
+    "blurb": "WIP server hosting (like minehut/roblox)",
+    "tags": [ "Java", "Python", "Minecraft"],
+    "link": "https://github.com/MineriftMC",
+    "isOrg": true
+  },
+  {
+    "title": "osu-somtum",
+    "blurb": "the second private osu! server hosted in thailand, we're currently working on our own Lazer support and client.",
+    "tags": ["FastAPI", "Python", "C#", "osu!"],
+    "link": "https://github.com/osu-somtum",
+    "isOrg": true
+  },
+  {
+    "title": "star.social",
+    "blurb": "originally a social for windows 8.1 community, now have other purpose. currently on hold cus idk what to do with it.",
+    "tags": ["Express", "JavaScript", "C#", "On hold"],
+    "link": "https://github.com/mrrpmeowfurry/star.social"
+  },
+  {
+    "title": "eat-anything",
+    "blurb": "minecraft vore plugin, it's a joke plugin i made when i was learning java, i hate it so much",
+    "tags": ["Java", "Minecraft"],
+    "link": "https://github.com/mrrpmeowfurry/eat-anything"
+  },
+  {
+    "title": "other projects",
+    "blurb": "its not listed here because it will be very long, take a look for yourself!",
+    "tags": ["Other"],
+    "link": "https://github.com/mrrpmeowfurry?tab=repositories"
+  }
+]
