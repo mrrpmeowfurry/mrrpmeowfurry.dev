@@ -1,0 +1,5 @@
+# meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow
+User-agent: *
+Allow: /
+
+Sitemap: https://mrrpmeowfurry.dev/sitemap.xml

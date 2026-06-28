@@ -109,7 +109,15 @@ function App() {
         {/* hero */}
         <section className="hero">
           <div className="avatar">
-            <img className="avatar-img" src="https://cdn.mrrpmeowfurry.dev/assets/avatar.png" alt="Lily" />
+            <img
+              className="avatar-img"
+              src="https://cdn.mrrpmeowfurry.dev/assets/avatar.png"
+              alt="Lily"
+              width="96"
+              height="96"
+              fetchPriority="high"
+              decoding="async"
+            />
           </div>
           <a
             className="pronouns md-typescale-label-large"
@@ -255,8 +263,8 @@ function App() {
           <span className="flag flag--enby" />
         </div>
         <p className="md-typescale-body-small footer-text">
-          i just like material design · ©{" "}
-          {new Date().getFullYear()} mrrpmeowfurry
+          i just like material design · © {new Date().getFullYear()}{" "}
+          mrrpmeowfurry
         </p>
         {/* wonderful.software webring badge */}
         <a
